@@ -1,0 +1,12 @@
+﻿  main.cpp
+C:\Users\user\Desktop\一下\程設一下\final project\final project-visual\final project-visual\main.cpp(12,32): warning C4244: '正在初始化': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\user\Desktop\一下\程設一下\final project\final project-visual\final project-visual\main.cpp(12,38): warning C4244: '正在初始化': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\user\Desktop\一下\程設一下\final project\final project-visual\final project-visual\main.cpp(20,35): warning C4244: '引數': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\user\Desktop\一下\程設一下\final project\final project-visual\final project-visual\main.cpp(20,24): warning C4244: '引數': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\user\Desktop\一下\程設一下\final project\final project-visual\final project-visual\main.cpp(23,35): warning C4244: '引數': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\user\Desktop\一下\程設一下\final project\final project-visual\final project-visual\main.cpp(23,24): warning C4244: '引數': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\user\Desktop\一下\程設一下\final project\final project-visual\final project-visual\main.cpp(129,36): warning C4244: '引數': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\user\Desktop\一下\程設一下\final project\final project-visual\final project-visual\main.cpp(129,33): warning C4244: '引數': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\user\Desktop\一下\程設一下\final project\final project-visual\final project-visual\main.cpp(173,36): warning C4244: '引數': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\user\Desktop\一下\程設一下\final project\final project-visual\final project-visual\main.cpp(173,33): warning C4244: '引數': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+  final project-visual.vcxproj -> C:\Users\user\Desktop\一下\程設一下\final project\final project-visual\Debug\final project-visual.exe
